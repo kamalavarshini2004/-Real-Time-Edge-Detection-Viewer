@@ -26,6 +26,8 @@ This project demonstrates real-time camera edge detection using Android (Java + 
 Include screenshots or GIFs showing:
 - Android app running raw and edge-detected camera feed
 - Web viewer displaying processed frames and statistics
+- <img width="1847" height="828" alt="Screenshot 2025-10-07 1943321" src="https://github.com/user-attachments/assets/29d5cfed-10f8-4b07-96e3-7ebd54c7839c" />
+
 
 ---
 
